@@ -80,7 +80,7 @@ bash
 Copiar código
 # Clonar el repositorio
 ♦@
-git clone https://github.com/kevingarciamontes/RetoSoftkaPerformance.git
+git clone https://github.com/kevingarciamontes/RetoSoftkaAuto
 
 
 ##  Autor : Kevin Garcia Montes
@@ -106,4 +106,5 @@ Copiar código
 👨‍💻 Autor
 Kevin Garcia Montes
 📧 kevingarciamontes@gmail.com
+
 💼 Proyecto de Automatización E2E – Cucumber + Java + Gradle
